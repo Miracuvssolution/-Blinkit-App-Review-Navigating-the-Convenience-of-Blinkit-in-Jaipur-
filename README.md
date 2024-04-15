@@ -28,18 +28,18 @@ In conclusion, Blinkit emerges as a game-changer in the realm of online shopping
 
 **FAQs (Frequently Asked Questions)**
 
-Is Blinkit available in all areas of Jaipur?
+1.Is Blinkit available in all areas of Jaipur?
 
 Yes, Blinkit strives to cover as many areas as possible in Jaipur, ensuring widespread accessibility for users across the city.
 How can I track my Blinkit order?
 
-Tracking your Blinkit order is simple. Just navigate to the "My Orders" section in the app, select your order, and you'll find real-time tracking information to monitor the status of your delivery.
+2.Tracking your Blinkit order is simple. Just navigate to the "My Orders" section in the app, select your order, and you'll find real-time tracking information to monitor the status of your delivery.
 Does Blinkit offer cash on delivery (COD) payment option?
 
 Yes, Blinkit provides cash on delivery as a payment option for added convenience and flexibility for users.
 Are there any additional charges for Blinkit deliveries?
 
-Blinkit strives to keep delivery charges minimal and transparent. Any additional charges, if applicable, will be clearly communicated to users before placing their orders.
+3.Blinkit strives to keep delivery charges minimal and transparent. Any additional charges, if applicable, will be clearly communicated to users before placing their orders.
 Can I schedule a delivery for a specific time slot?
 
 Yes, Blinkit offers the option to schedule deliveries for a convenient time slot based on your preferences. Simply select the desired time slot during the checkout process, and Blinkit will ensure timely delivery as per your request.
